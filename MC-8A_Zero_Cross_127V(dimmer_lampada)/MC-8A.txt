@@ -1,0 +1,35 @@
+CARACTERÍSTICAS:
+
+- Dimmer Arduino MC-8A 127V;
+- Possibilita o controle da quantidade de energia que é transmitida às lâmpadas incandescentes;
+- Proporciona controle preciso da luminosidade das lâmpadas incandescentes;
+- Controlador Triac BT137 integrado;
+- Capacidade de dimerizar uma ou mais lâmpadas incandescentes;
+- Luminosidade controlada através de sistemas microcontroladores;
+- Porta ZC (Zero Cross) que avisa quanto a tensão estiver cruzando o zero;
+- Porta DIM que recebe um pulso de tensão do microcontrolador como resposta ao ZC;
+- Compatível com lâmpadas incandescente ou led dimerizáveis tipo leading edge;
+- Led D5 indica status do pino DIM;
+- Torna o ambiente muito mais agradável;
+- Diminui o consumo de energia;
+- Fácil controle;
+- Simples instalação;
+- Datasheet Triac BT137;
+- Código para Teste de Frequência com Módulo Dimmer;
+- Código de Programação Dimmer Arduino MC-8A.
+
+ESPECIFICAÇÕES:
+
+- Marca: Microtech;
+- Modelo: MC-08;
+- Produto Exclusivo Usinainfo;
+- Triac: BT137;
+- Tensão para lâmpadas incandescentes: 127VAC ou 220VAC (escolher no momento da compra);
+- Tensão junto ao Arduino: 5V DC;
+- Tensão entrada de disparo: DIM 5V;
+- Corrente consumida na entrada 5V: 5mA; 
+- Resistor: 15K 5W (127V - Marrom / Verde / Laranja) / 33K 5W (220V - Laranja / Laranja / Laranja);
+- Potência: 880W (127V) / 1760W (220V);
+- Corrente: 8A (necessário dissipador de calor);
+- Dimensões (CxLxA): 62x34x18mm;
+- Peso: 21g.
