@@ -1,0 +1,8 @@
+Lampada bulbo halogena
+Marca: Avant
+dimerizavel : sim
+Potencia:120W
+Tensao nomminal:127 V
+Corrente nominal: 94 mA
+Fator de potencia : 1,00
+frequencia : 60Hz
