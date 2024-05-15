@@ -1,3 +1,6 @@
+// Para fazer a coleta de dados da curva dee reação
+//comente a linha controlador PID e coemnade a lammpada manualmente
+// atraves do commando rvalor na leitura serial
 #include "Dimmer.h"
 #include <OneWire.h>
 #include <DallasTemperature.h>
@@ -31,7 +34,7 @@ void loop() {
   if (millis() - tempo_leitura >= 1000) {
     leSerial();
     temperatura();
-    Controlador_PID();
+    Controlador_PID();//comente esta linha para fazer coleta de dados
 
     tempo_leitura=millis(); 
 
